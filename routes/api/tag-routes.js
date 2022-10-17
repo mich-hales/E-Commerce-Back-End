@@ -1,5 +1,5 @@
 const router = require('express').Router();
-const { Tag, Product, ProductTag } = require('../../../models');
+const { Tag, Product, ProductTag } = require('../../models');
 
 // The `/api/tags` endpoint
 
@@ -50,7 +50,7 @@ router.put('/:id', (req, res) => {
         id: req.params.id,
       },
     }
-  ).then(() => {
+  ).then((update) => {
     res.json(`id:${req.params.id} has been updated`);
   }).catch((err) => {
     res.json(err);
