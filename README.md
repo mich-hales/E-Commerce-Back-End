@@ -29,13 +29,4 @@ This application is a backend service for an e-commerce site that involves the u
 
 ## Mock-Up
 
-The following video shows how to properly start the application and the features being tested in Insomnia:
-
-
-## Review
-
-You are required to submit BOTH of the following for review:
-
-* A walkthrough video demonstrating the functionality of the application and all of the acceptance criteria being met.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a readme describing the project.
+The following video shows how to start the application along with the application being tested in Insomnia:
