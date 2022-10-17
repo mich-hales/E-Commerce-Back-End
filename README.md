@@ -30,3 +30,9 @@ This application is a backend service for an e-commerce site that involves the u
 ## Mock-Up
 
 The following video shows how to start the application along with the application being tested in Insomnia:
+
+
+https://user-images.githubusercontent.com/107455470/196297882-e9a2e854-d1fa-441e-af43-61661d7000e3.mp4
+
+
+
